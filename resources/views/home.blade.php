@@ -11,7 +11,7 @@
   </head>
 
   <body>
-
+    <h1>Laravel with Bootstrap + Vite</h1>
   </body>
 
 </html>
