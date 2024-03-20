@@ -24,3 +24,9 @@ php artisan serve
 ```
 
 Poi copia il file `.env.example` in `.env` e configura la connessione al DB
+
+## Create a controller
+
+...
+
+## Create a model
